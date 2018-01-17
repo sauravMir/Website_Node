@@ -1,0 +1,27 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "The first node js website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravMir/Website_Node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mir Mashiur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravMir/Website_Node/issues"
+  },
+  "homepage": "https://github.com/sauravMir/Website_Node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
